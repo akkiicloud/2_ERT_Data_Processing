@@ -42,7 +42,7 @@ df_MG = pd.concat([
     df.iloc[18947:19595]    
 ])
 
-# Reset indices (optional but recommended)
+# Reset indices
 df_DD = df_DD.reset_index(drop=True)
 df_MG = df_MG.reset_index(drop=True)
 
