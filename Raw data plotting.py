@@ -3,7 +3,8 @@
 Created on Wed Oct  1 15:04:25 2025
 
 @author: akagupt
-This script is for plotting raw data and dev10 and rho 80 data.
+This script is for plotting raw data and dev10 and rho 80 ohm.m data.
+
 """
 
 import pandas as pd
