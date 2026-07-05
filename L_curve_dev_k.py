@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar 18 14:52:31 2026
-In this script we done need to add the function to create new columns for pygimlis since the input file has already thatt thing.
+In this script we do not need to add the function to create new columns for pygimli since the input file has already that thing.
 @author: akagupta
 """
 import pandas as pd
