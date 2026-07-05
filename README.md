@@ -186,7 +186,7 @@ These scripts produce the final filtered pseudosections used for interpretation 
 - Pandas
 - Matplotlib
 - SciPy
-- PyGIMLi
+- pyGIMLi
 
 ---
 
